@@ -1,0 +1,8 @@
+incubationSetpointTemp=30.00
+OD940LEDBrightness=2460
+motorStirringSpeed=84
+pumpOneSpeed=1161
+pumpTwoSpeed=1140
+pumpThreeSpeed=1140
+pumpFourSpeed=1160
+END
